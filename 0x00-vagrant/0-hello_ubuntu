@@ -1,2 +1,2 @@
-#!/bin/bash
-cat README.md
+#!bin/bash
+uname -s
